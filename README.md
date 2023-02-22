@@ -33,7 +33,8 @@ I recently finished my college degree in computer engineering at UTAD (Universid
 #### IDEs/Editors:
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![SQL Server Manegement Studio](https://img.shields.io/badge/-SQL%20Server%20Manegement%20Studio-yellow)
 
 
 ## Personal Statistics:
