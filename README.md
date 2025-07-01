@@ -1,6 +1,6 @@
 ## About me:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Junior+Developer+with+experience+in+the+Microsoft+365+environment;Full+Stack+development,+SPFx,+and+Power+Platform)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer%20Engineer;Always%20learning%20new%20things)](https://git.io/typing-svg)
 
 Hello, my name is Jose Fernandes. I am a 25-year-old junior developer with experience in the Microsoft 365 environment, Full Stack development, SPFx, and Power Platform, focused on building SharePoint solutions, REST APIs, and workflow automations for business needs.
 
