@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer%20Engineer;Always%20learning%20new%20things)](https://git.io/typing-svg)
 
-Hello, my name is Jose Fernandes. I am a 25-year-old junior developer with experience in the Microsoft 365 environment, Full Stack development, SPFx, and Power Platform, focused on building SharePoint solutions, REST APIs, and workflow automations for business needs.
+Hello, my name is Jose Fernandes. I am a 25-year-old junior developer with 2 years of professional experience in the Microsoft 365 environment, Full Stack development, SPFx, and Power Platform. I have been focused on building SharePoint solutions, REST APIs, and workflow automations tailored to business needs.
 
-I recently finished my college degree in Computer Engineering at UTAD (Universidade de Trás-os-Montes e Alto Douro). 
+I hold a degree in Computer Engineering from UTAD (Universidade de Trás-os-Montes e Alto Douro).
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zemanel20)](https://github.com/zemanel20)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-fernandes00/)](https://www.linkedin.com/in/jose-fernandes00/)
